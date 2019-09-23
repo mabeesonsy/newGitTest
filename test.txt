@@ -2,4 +2,9 @@ HELLO
 WORLD
 AGAIN
 WHAT
+<<<<<<< HEAD
+SHOULD
+=======
 WE
+DO
+>>>>>>> master
